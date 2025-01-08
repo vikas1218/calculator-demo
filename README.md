@@ -1,3 +1,3 @@
 ## Calculator
 
-Vikas very simple calculator application
+Vikas very simple calculator applications
